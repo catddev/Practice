@@ -6,7 +6,7 @@
 
 void main()
 {
-	setlocale(LC_ALL, "Rus");
+	setlocale(LC_ALL, "Russian");
 
 	int n = 0;
 	printf("Введите номер задания:\t");
